@@ -1,3 +1,6 @@
+# Thanks to Dataprofessor streamlit course
+# Data Professor: https://www.youtube.com/@DataProfessor en YouTube.
+
 import streamlit as st
 import pandas as pd
 import numpy as np

@@ -1,3 +1,6 @@
+# Thanks to Dataprofessor streamlit course
+# Data Professor: https://www.youtube.com/@DataProfessor en YouTube.
+
 import yfinance as yf
 import pandas as pd
 import streamlit as st
